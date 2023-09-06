@@ -1,0 +1,9 @@
+alert("Welcome to Bisnes Site! =)");
+
+function yt() {
+    window.location - 'https://youtube.com/@0fenix';
+}
+
+function tg() {
+    window.location - 'https://t.me/@Matter_Team';
+}

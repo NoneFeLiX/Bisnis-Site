@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bisnes Site</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+    <script src="JS/main.js"></script>
+
+<div class="border">
+    <h1>Welcome to Bisnes Site</h1>
+</div>
+    
+<div class="box1">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem necessitatibus illum modi facilis, doloribus voluptate deserunt harum magnam exercitationem! Deleniti vero quisquam praesentium cum dolores rem, porro repellat odit tenetur?</p>
+</div>
+
+<div class="box2">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem necessitatibus illum modi facilis, doloribus voluptate deserunt harum magnam exercitationem! Deleniti vero quisquam praesentium cum dolores rem, porro repellat odit tenetur?</p>
+</div>
+
+<div class="img">
+    <img src="https://u2.9111s.ru/uploads/202301/28/0678b3d03e7cd7ca2ef710404d6cb344.jpg">
+</div>
+
+<div onclick="yt()">
+    <button class="glow-on-hover" type="button">YouTube</button>
+</div>
+<div onclick="tg()">
+    <button class="button-64" role="button"><span class="text">Telegram</span></button>
+</div>
+
+</body>
+</html>
